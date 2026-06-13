@@ -47,27 +47,27 @@ The objective is to identify customer retention drivers and provide actionable b
 
 ---
 
-## Dashboard Pages
+## Executive Report Pages
 
 ### Page 1 – Executive KPI Dashboard
 
 Key metrics including Revenue, Churn Rate, Retention Rate, Repeat Rate, Total Customers and CLV.
 
-### Page 2 – Repeat Purchase Analysis
-
-Customer purchase frequency analysis across age groups, regions and loyalty tiers.
-
-### Page 3 – Loyalty & Promotion Impact
+### Page 2 – Loyalty & Promotion Impact
 
 Evaluation of loyalty program performance and promotional effectiveness.
 
-### Page 4 – Store & Channel Performance Insights
+### Page 3 – Store & Channel Performance Insights
 
 Store type analysis, channel performance and retention trends.
 
-### Page 5 – Customer Segmentation Dashboard
+### Page 4 – Customer Segmentation Dashboard
 
 Segmentation of customers into Churned, Repeat and High CLV customer groups.
+
+### Page 5 – Recommendations for Target
+
+Recommendations based on analysis.
 
 ---
 
@@ -95,6 +95,7 @@ Segmentation of customers into Churned, Repeat and High CLV customer groups.
 ## Skills Demonstrated
 
 * Data Cleaning
+* Power Query
 * Data Modeling
 * DAX Calculations
 * Customer Segmentation
@@ -103,3 +104,5 @@ Segmentation of customers into Churned, Repeat and High CLV customer groups.
 * Dashboard Design
 * Business Storytelling
 * Executive Reporting
+
+  
